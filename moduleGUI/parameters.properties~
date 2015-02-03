@@ -1,0 +1,6 @@
+file=/home/daniel/Dropbox/Seng3011/bhp5Feb13.csv
+outputDir=/home/daniel/Dropbox/Java/seng3011GUI
+timeFrameStart=
+timeFrameEnd=
+movingAvg=-8
+threshold=0.0001
